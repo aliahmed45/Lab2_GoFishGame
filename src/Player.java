@@ -1,3 +1,4 @@
+import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Random;
 import java.io.PrintWriter;
@@ -119,7 +120,12 @@ public class Player {
 			handRanks.add(hand.get(i).getRank());
 		}
 		Random rankGen = new Random();
-		//rankGen.setSeed(20);
+		//rankGen.setSeed(445);
+		//long rgenseed = System.currentTimeMillis();
+		//long rgenseed = 1518592102069L;
+		//rankGen.setSeed(rgenseed);
+		//System.out.println("Random number generator seed is " + rgenseed);
+
 		int RankAsk = rankGen.nextInt(hand.size());
 		return handRanks.get(RankAsk);
     }

@@ -2,10 +2,10 @@ import java.io.*;
 
 public class GoFishGame {
 
-	static Deck GameDeck;
-	static Player Player1;
-	static Player Player2;
-	static int NumPlayers = 2;
+	private static Deck GameDeck;
+	private static Player Player1;
+	private static Player Player2;
+	private static int NumPlayers = 2;
 
 	PrintWriter out;
 	public GoFishGame() {
@@ -110,6 +110,7 @@ public class GoFishGame {
 					return;
 				}
 			case 1:
+
 				int RankAsked2 = Player2.chooseCardFromHand();
 				/*System.*/out.write(Player2.getName() + " asks - Do you have a " + RankAsked2 + "?" + "\n");
 				if(Player1.rankInHand(RankAsked2)) {
@@ -127,9 +128,7 @@ public class GoFishGame {
 		switch (playerTurn) {
 			case 0: // Player 1's turn
 				// Ask for Card with Rank
-				if(Player1.hand.size()==0){
-					Card c = GameDeck.dealCard();
-					Player1.addCardToHand(c);
+				if (checkPlayerHandSize(Player1)){
 					return repeatTurn;
 				}
 
@@ -153,9 +152,7 @@ public class GoFishGame {
 
 			case 1:
 				// Ask for Card with Rank
-				if(Player2.hand.size()==0){
-					Card c = GameDeck.dealCard();
-					Player2.addCardToHand(c);
+				if (checkPlayerHandSize(Player2)){
 					return repeatTurn;
 				}
 
@@ -185,7 +182,7 @@ public class GoFishGame {
 	private boolean checkPlayerHandSize(Player player){
 		if(player.hand.size()==0){
 			Card c = GameDeck.dealCard();
-			Player1.addCardToHand(c);
+			player.addCardToHand(c);
 			return true;
 		}
 		else{
