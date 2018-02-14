@@ -10,7 +10,7 @@ public class GoFishGame {
 	PrintWriter out;
 	public GoFishGame() {
 		// TODO Auto-generated constructor stub
-		File myFile = new File("score.txt");
+		File myFile = new File("GoFish_results.txt");
 		try{
 			myFile.createNewFile();
 		}catch(IOException e){
