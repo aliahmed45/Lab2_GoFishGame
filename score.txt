@@ -1,0 +1,210 @@
+Mazhar goes first
+Mazhar books 10diamond and 10club
+Ali books 9diamond and 9heart
+
+Mazhar asks - Do you have a 11?
+Ali says - Go Fish
+Mazhar draws 13heart
+
+Ali asks - Do you have a 4?
+Mazhar says - Yes. I have a 4.
+Ali books 4spade and 4club
+
+Ali asks - Do you have a 8?
+Mazhar says - Go Fish
+Ali draws 12club
+
+Mazhar asks - Do you have a 7?
+Ali says - Go Fish
+Mazhar draws 5diamond
+Mazhar books 5club and 5diamond
+
+Ali asks - Do you have a 1?
+Mazhar says - Go Fish
+Ali draws 11spade
+
+Mazhar asks - Do you have a 11?
+Ali says - Yes. I have a 11.
+Mazhar books 11club and 11spade
+
+Mazhar asks - Do you have a 13?
+Ali says - Go Fish
+Mazhar draws 9spade
+
+Ali asks - Do you have a 12?
+Mazhar says - Go Fish
+Ali draws 2club
+
+Mazhar asks - Do you have a 7?
+Ali says - Go Fish
+Mazhar draws 11heart
+
+Ali asks - Do you have a 1?
+Mazhar says - Go Fish
+Ali draws 1diamond
+Ali books 1heart and 1diamond
+
+Mazhar asks - Do you have a 13?
+Ali says - Go Fish
+Mazhar draws 8diamond
+
+Ali asks - Do you have a 2?
+Mazhar says - Go Fish
+Ali draws 1spade
+
+Mazhar asks - Do you have a 3?
+Ali says - Yes. I have a 3.
+Mazhar books 3spade and 3club
+
+Mazhar asks - Do you have a 13?
+Ali says - Go Fish
+Mazhar draws 5heart
+
+Ali asks - Do you have a 8?
+Mazhar says - Yes. I have a 8.
+Ali books 8spade and 8diamond
+
+Ali asks - Do you have a 2?
+Mazhar says - Go Fish
+Ali draws 9club
+
+Mazhar asks - Do you have a 5?
+Ali says - Go Fish
+Mazhar draws 6spade
+
+Ali asks - Do you have a 6?
+Mazhar says - Yes. I have a 6.
+Ali books 6club and 6spade
+
+Ali asks - Do you have a 9?
+Mazhar says - Yes. I have a 9.
+Ali books 9club and 9spade
+
+Ali asks - Do you have a 2?
+Mazhar says - Go Fish
+Ali draws 1club
+Ali books 1spade and 1club
+
+Mazhar asks - Do you have a 11?
+Ali says - Go Fish
+Mazhar draws 5spade
+Mazhar books 5heart and 5spade
+
+Ali asks - Do you have a 12?
+Mazhar says - Go Fish
+Ali draws 11diamond
+
+Mazhar asks - Do you have a 11?
+Ali says - Yes. I have a 11.
+Mazhar books 11heart and 11diamond
+
+Mazhar asks - Do you have a 13?
+Ali says - Go Fish
+Mazhar draws 7diamond
+Mazhar books 7club and 7diamond
+
+Ali asks - Do you have a 2?
+Mazhar says - Go Fish
+Ali draws 8heart
+
+Mazhar asks - Do you have a 13?
+Ali says - Go Fish
+Mazhar draws 2heart
+
+Ali asks - Do you have a 12?
+Mazhar says - Go Fish
+Ali draws 4heart
+
+Mazhar asks - Do you have a 2?
+Ali says - Yes. I have a 2.
+Mazhar books 2heart and 2club
+
+Mazhar asks - Do you have a 13?
+Ali says - Go Fish
+Mazhar draws 6diamond
+
+Ali asks - Do you have a 4?
+Mazhar says - Go Fish
+Ali draws 7heart
+
+Mazhar asks - Do you have a 13?
+Ali says - Go Fish
+Mazhar draws 6heart
+Mazhar books 6diamond and 6heart
+
+Ali asks - Do you have a 4?
+Mazhar says - Go Fish
+Ali draws 13club
+
+Mazhar asks - Do you have a 13?
+Ali says - Yes. I have a 13.
+Mazhar books 13heart and 13club
+
+
+Ali asks - Do you have a 4?
+Mazhar says - Go Fish
+Ali draws 3diamond
+
+Mazhar asks - Do you have a 2?
+Ali says - Go Fish
+Mazhar draws 12heart
+
+Ali asks - Do you have a 7?
+Mazhar says - Go Fish
+Ali draws 3heart
+Ali books 3diamond and 3heart
+
+Mazhar asks - Do you have a 2?
+Ali says - Go Fish
+Mazhar draws 2diamond
+Mazhar books 2spade and 2diamond
+
+Ali asks - Do you have a 8?
+Mazhar says - Go Fish
+Ali draws 4diamond
+Ali books 4heart and 4diamond
+
+Mazhar asks - Do you have a 12?
+Ali says - Yes. I have a 12.
+Mazhar books 12heart and 12club
+
+
+Ali asks - Do you have a 7?
+Mazhar says - Go Fish
+Ali draws 12diamond
+
+Mazhar asks - Do you have a 8?
+Ali says - Yes. I have a 8.
+Mazhar books 8club and 8heart
+
+
+Ali asks - Do you have a 7?
+Mazhar says - Go Fish
+Ali draws 13diamond
+
+Mazhar asks - Do you have a 10?
+Ali says - Go Fish
+Mazhar draws 12spade
+
+Ali asks - Do you have a 13?
+Mazhar says - Go Fish
+Ali draws 7spade
+Ali books 7heart and 7spade
+
+Mazhar asks - Do you have a 10?
+Ali says - Go Fish
+Mazhar draws 10heart
+Mazhar books 10spade and 10heart
+
+Ali asks - Do you have a 13?
+Mazhar says - Go Fish
+Ali draws 13spade
+Ali books 13diamond and 13spade
+
+Mazhar asks - Do you have a 12?
+Ali says - Yes. I have a 12.
+Mazhar books 12spade and 12diamond
+Mazhar wins with 15 booked pairs.
+[10diamond, 10club, 5club, 5diamond, 11club, 11spade, 3spade, 3club, 5heart, 5spade, 11heart, 11diamond, 7club, 7diamond, 2heart, 2club, 6diamond, 6heart, 13heart, 13club, 2spade, 2diamond, 12heart, 12club, 8club, 8heart, 10spade, 10heart, 12spade, 12diamond]
+Ali has 11 booked pairs.
+[9diamond, 9heart, 4spade, 4club, 1heart, 1diamond, 8spade, 8diamond, 6club, 6spade, 9club, 9spade, 1spade, 1club, 3diamond, 3heart, 4heart, 4diamond, 7heart, 7spade, 13diamond, 13spade]
